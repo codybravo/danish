@@ -1,3 +1,3 @@
 
-apt install python3
+pkg install python3
 python3 new.py
